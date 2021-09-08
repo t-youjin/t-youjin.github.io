@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2021-09-06
+img: mogtan.png
+img-link: https://t-youjin.github.io/mogtan/
+alt: image-alt
+project-date: September 2021
+client: t-youjin
+category: Mini Game
+description: モグラ叩きゲームです。マウスまたはタッチで操作します。<p>マウスの場合、動かしてモグラまで移動し、左クリックで叩く。</p><p>タッチの場合、モグラに向けて直接タッチ。</p><p>ゲームの実行は、画像をクリックする、または、<a href="https://t-youjin.github.io/mogtan/">こちら</a>から。
+---

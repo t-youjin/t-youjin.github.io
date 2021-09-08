@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2021-09-06
+img: learn.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: OUJ
+description: <p>放送大学で生涯学習</p>2020年3月に、卒業研究を経て学士(教養)を情報コースで修めました。現在は、自然と環境コースへと再入学し、学び続けています。
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2021-09-04
+img: housework.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: House work
+description: <p>家事は暮らしの基礎</p>画像はベーシックなポテトサラダです。
+---
